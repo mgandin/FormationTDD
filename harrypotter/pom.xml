@@ -1,0 +1,30 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.octo</groupId>
+  <artifactId>promotionHarryPotter</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0</version>
+  <name>promotionHarryPotter</name>
+  <dependencies>
+    	<dependency>
+      		<groupId>junit</groupId>
+      		<artifactId>junit</artifactId>
+      		<version>4.8.2</version>
+      		<scope>test</scope>
+    	</dependency>
+		
+		<dependency>
+    		<groupId>org.fitnesse</groupId>
+    		<artifactId>fitlibrary</artifactId>
+    		<version>20080812</version>
+		</dependency>
+
+		
+		<dependency>
+    		<groupId>org.fitnesse</groupId>
+    		<artifactId>fitnesse</artifactId>
+    		<version>20081201</version>
+		</dependency>
+
+  </dependencies>
+</project>
